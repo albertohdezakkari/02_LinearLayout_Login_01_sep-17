@@ -12,6 +12,7 @@ public class MyOnClickListener
     public MyOnClickListener(MainActivity padre) {
         this.padre = padre;
         // 0X154879F
+        // 0X154879F
     }
     @Override
     public void onClick(View view) {
